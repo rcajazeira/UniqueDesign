@@ -85,5 +85,7 @@
   }
 
   .signup-text a {
-    
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
   }
