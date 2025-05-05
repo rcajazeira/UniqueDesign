@@ -101,3 +101,14 @@
     height: 100%;
     object-fit: cover;
   }
+
+  .welcome-text {
+    position: absolute;
+    bottom: 40px;
+    left: 40px;
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+    text-shadow: 2px 2px 8px rgba(0,0,0,0.6);
+  }
+  
