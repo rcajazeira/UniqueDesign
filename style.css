@@ -37,3 +37,11 @@
     margin-bottom: 20px;
     color: #888;
   }
+
+  .login-box input {
+    margin-bottom: 15px;
+    padding: 12px;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+  }
