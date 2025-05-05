@@ -45,3 +45,13 @@
     border: 1px solid #ccc;
     border-radius: 8px;
   }
+
+  .login-box button[type="submit"] {
+    padding: 12px;
+    background-color: #111827;
+    color: white;
+    border: none;
+    width: 100%;
+    border-radius: 8px;
+    cursor: pointer;
+  }
